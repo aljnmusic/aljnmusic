@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Tool-MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
   <img src="https://img.shields.io/badge/Tool-draw.io-007ACC?style=for-the-badge&logo=draw.io&logoColor=white" alt="draw.io" />
 </p>
-
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aljnmusic&show_icons=true&theme=react" alt="GitHub Stats" />
