@@ -1,13 +1,3 @@
-
-# My GitHub Profile
-
-## Hi there 👋 Welcome to my profile!
-
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aljnmusic.aljnmusic&left_color=blue&right_color=green" alt="Visitor badge" />
-</div>
-
 ![Header](./github-header-banner.png)
 
 <h1 align="center">
