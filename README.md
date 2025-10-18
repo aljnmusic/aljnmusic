@@ -57,6 +57,9 @@
 </p>
 <br>
 
+## ⚡️ Stats
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aljnmusic&show_icons=true&theme=react" alt="GitHub Stats" />
 </div>
