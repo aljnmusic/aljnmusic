@@ -57,9 +57,6 @@
 </p>
 <br>
 
-## ⚡️ Stats
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
