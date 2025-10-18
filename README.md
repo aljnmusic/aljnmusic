@@ -1,13 +1,9 @@
-## Hi there 👋
 
 # My GitHub Profile
 
-## Welcome to my profile!
+##  Hi there 👋 Welcome to my profile!
 
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Visitor's Count" />
-</div>
+![Visitor Count](https://img.shields.io/badge/Visitors-1234-blue)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aljnmusic&theme=transparent)
