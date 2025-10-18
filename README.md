@@ -50,7 +50,9 @@
   <img src="https://img.shields.io/badge/Server-XAMPP-0078D7?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/IDE-NetBeans-0073B7?style=for-the-badge&logo=netbeans&logoColor=white" />
   <img src="https://img.shields.io/badge/IDE-Code_Blocks-0052CC?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
 
 
 
