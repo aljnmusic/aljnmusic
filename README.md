@@ -2,8 +2,8 @@
 # My GitHub Profile
 
 ##  Hi there 👋 Welcome to my profile!
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aljnmusic.aljnmusic&left_color=blue&right_color=green)
 
-![Visitor Count](https://img.shields.io/badge/Visitors-1234-blue)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aljnmusic&theme=transparent)
