@@ -4,8 +4,9 @@
 ##  Hi there 👋 Welcome to my profile!
 <div align="center"> 
   <p>Visitor count</p>
-  https://visitor-badge.laobi.icu/badge?page_id=aljnmusic.aljnmusic&left_color=blue&right_color=green
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aljnmusic.aljnmusic&left_color=blue&right_color=green" alt="Visitor badge" />
 </div>
+
 
 
 <!--
