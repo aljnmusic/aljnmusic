@@ -1,8 +1,14 @@
 ## Hi there 👋
-<div align="center"> 
+
+# My GitHub Profile
+
+## Welcome to my profile!
+
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/ALJNMUSIC/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Visitor's Count" />
 </div>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aljnmusic&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aljnmusic&theme=transparent)
