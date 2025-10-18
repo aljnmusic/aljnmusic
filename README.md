@@ -1,7 +1,8 @@
 
 # My GitHub Profile
 
-##  Hi there 👋 Welcome to my profile!
+## Hi there 👋 Welcome to my profile!
+
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aljnmusic.aljnmusic&left_color=blue&right_color=green" alt="Visitor badge" />
@@ -10,13 +11,13 @@
 ![Header](./github-header-banner.png)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I%27m+John+Aljenne+Galos!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I%27m+John+Aljenne+Galos!" />
 </h1>
 
 ### A Computer Science student passionate about building beautiful, functional, and user-centric web applications.
 
 - 🌱 I’m currently learning **[JavaScript](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)**
--  💬 Ask me about **HTML, CSS, Tailwind, Javascript, PHP, MySql, Comsci stuff...or anything [here](https://github.com/aljnmusic/aljnmusic/issues)**
+- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, PHP, MySQL, CompSci stuff... or anything [here](https://github.com/aljnmusic/aljnmusic/issues)**
 
 
 
