@@ -17,6 +17,8 @@ jobs:
       - uses: lowlighter/metrics@fork
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          config_presets: https://raw.githubusercontent.com/lowlighter/metrics/presets/lunar-red/preset.yaml
+          config_timezone: Europe/Paris
           base: header
           plugin_isocalendar: yes
           plugin_languages: yes
