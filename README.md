@@ -10,8 +10,7 @@
 ![Header](./github-header-banner.png)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi%20There!%20👋;I%27m%20John%20Aljenne%20Galos!" />
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I%27m+John+Aljenne+Galos!" />
 </h1>
 
 ### A Computer Science student passionate about building beautiful, functional, and user-centric web applications.
