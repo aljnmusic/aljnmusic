@@ -2,7 +2,10 @@
 # My GitHub Profile
 
 ##  Hi there 👋 Welcome to my profile!
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aljnmusic.aljnmusic&left_color=blue&right_color=green)
+<div align="center"> 
+  <p>Visitor count</p>
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aljnmusic.aljnmusic&left_color=blue&right_color=green)
+</div>
 
 
 <!--
