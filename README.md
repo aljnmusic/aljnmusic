@@ -40,8 +40,18 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,mysql,c++,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,mysql,cpp,java" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-PhpStorm-00599C?style=for-the-badge&logo=phpstorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server-XAMPP-0078D7?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-NetBeans-0073B7?style=for-the-badge&logo=netbeans&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-Code_Blocks-0052CC?style=for-the-badge&logo=codeblocks&logoColor=white" />
+</p>
+
 
 <hr>
 
