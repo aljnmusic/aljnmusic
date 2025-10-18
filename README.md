@@ -60,6 +60,24 @@
 ## ⚡️ Stats
 <br>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <p>Here’s a quick look at my GitHub activity and favorite languages:</p>
+  
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=aljnmusic&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="aljnmusic's GitHub Stats" />
+  
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=aljnmusic&theme=transparent&count_private=true&border_radius=10&locale=en" alt="aljnmusic's GitHub Streak" />
+  
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=aljnmusic&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="aljnmusic's Most Used Languages" />
+  
+  <br />
+
+  <p>👀 Visitor count:</p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aljnmusic.aljnmusic&left_color=blue&right_color=green" alt="Visitor Badge" />
+</div>
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aljnmusic&show_icons=true&theme=react" alt="GitHub Stats" />
 </div>
