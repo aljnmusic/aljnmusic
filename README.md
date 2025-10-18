@@ -74,6 +74,18 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aljnmusic.aljnmusic&left_color=blue&right_color=green" alt="Visitor Badge" />
 </div>
 
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
 <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aljnmusic&show_icons=true&theme=react" alt="GitHub Stats" />
