@@ -15,6 +15,9 @@
 
 ### A Computer Science student passionate about building beautiful, functional, and user-centric web applications.
 
+- 🌱 I’m currently learning **[JavaScript](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)**  
+
+
 
 
 <!--
