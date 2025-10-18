@@ -77,7 +77,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aljnmusic.aljnmusic&left_color=blue&right_color=green" alt="Visitor Badge" />
 </div>
 
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aljnmusic&show_icons=true&theme=react" alt="GitHub Stats" />
 </div>
@@ -85,7 +85,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljnmusic&layout=compact&theme=react" alt="Top Languages" />
 </div>
-
+-->
 
 
 
