@@ -47,6 +47,17 @@
 </p>
 <br>
 
+## 🧰 Featured Projects
+
+- [💼 PizzaHaus Ordering and Admin Website](https://github.com/aljnmusic/Pizzahaus_Ordering_Website-Database)  
+  A full-featured ordering and admin system built with **HTML**, **Tailwind CSS**, **JavaScript**, **PHP**, and **MySQL**.  
+  It includes a customer-facing product display and ordering interface, as well as an admin dashboard for managing orders, products, and crew access.
+
+
+- [📝 Notes Cloud](https://github.com/aljnmusic/JS1/tree/master/NotesCloud)  
+  A simple cloud-based note-sharing platform built with **HTML**, **Tailwind CSS**, and **JavaScript**.  
+  Designed to help students upload, organize, search, and download notes in one central location — making academic resources more accessible and easier to manage.
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -76,15 +87,7 @@
 
 <hr>
 
-## 🧰 Featured Projects
 
-- [💼 PizzaHaus Ordering and Admin Website](https://github.com/aljnmusic/Pizzahaus_Ordering_Website-Database)  
-  A full-featured ordering and admin system built with **HTML**, **Tailwind CSS**, **JavaScript**, **PHP**, and **MySQL**.  
-  It includes a customer-facing product display and ordering interface, as well as an admin dashboard for managing orders, products, and crew access.
-
-
-- [📝 Blog CMS](https://github.com/aljnmusic/your-blog-repo)  
-  A simple PHP + MySQL blog CMS with user authentication and post management.
 
 
 
