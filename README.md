@@ -7,6 +7,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aljnmusic.aljnmusic&left_color=blue&right_color=green" alt="Visitor badge" />
 </div>
 
+![Header](./github-header-banner.png)
+
 
 
 <!--
