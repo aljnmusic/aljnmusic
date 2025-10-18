@@ -1,11 +1,10 @@
 ## Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aljnmusic&show_icons=true&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aljnmusic&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aljnmusic&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aljnmusic&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aljnmusic&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aljnmusic&theme=transparent&utcOffset=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aljnmusic&show_icons=true&theme=radical)
 
 <!--
 **aljnmusic/aljnmusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
