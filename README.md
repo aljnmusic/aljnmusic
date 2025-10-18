@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/aljnmusic/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{aljnmusic}/count.svg" alt="Visitor's Count" />
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aljnmusic&theme=transparent)
