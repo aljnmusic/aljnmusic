@@ -78,8 +78,10 @@
 
 ## 🧰 Featured Projects
 
-- [💼 Portfolio Website](https://github.com/aljnmusic/Pizzahaus_Ordering_Website-Database)
-  Personal website built with HTML, Tailwind CSS, and JavaScript.
+- [💼 PizzaHaus Ordering and Admin Website](https://github.com/aljnmusic/Pizzahaus_Ordering_Website-Database)  
+  A full-featured ordering and admin system built with **HTML**, **Tailwind CSS**, **JavaScript**, **PHP**, and **MySQL**.  
+  It includes a customer-facing product display and ordering interface, as well as an admin dashboard for managing orders, products, and crew access.
+
 
 - [📝 Blog CMS](https://github.com/aljnmusic/your-blog-repo)  
   A simple PHP + MySQL blog CMS with user authentication and post management.
