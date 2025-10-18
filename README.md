@@ -76,6 +76,15 @@
 
 <hr>
 
+## 🧰 Featured Projects
+
+- [💼 Portfolio Website](https://github.com/aljnmusic/your-portfolio-repo)  
+  Personal website built with HTML, Tailwind CSS, and JavaScript.
+
+- [📝 Blog CMS](https://github.com/aljnmusic/your-blog-repo)  
+  A simple PHP + MySQL blog CMS with user authentication and post management.
+
+
 
 <!--
 <div align="center">
