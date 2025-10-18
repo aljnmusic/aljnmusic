@@ -19,6 +19,39 @@
 - 🌱 I’m currently learning **[JavaScript](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)**
 - 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, PHP, MySQL, CompSci stuff... or anything [here](https://github.com/aljnmusic/aljnmusic/issues)**
 
+<br>
+
+<div align="center">
+  <a href="galosjohnaljenne@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/john-aljenne-galos-9725b7263/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<div align="center">
+
+  <a href="mailto:galosjohnaljenne@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/john-aljenne-galos-9725b7263/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aljnmusic&show_icons=true&theme=react" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljnmusic&layout=compact&theme=react" alt="Top Languages" />
+</div>
+
 
 
 
