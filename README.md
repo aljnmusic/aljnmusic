@@ -6,6 +6,7 @@
 
 ### A Computer Science student passionate about building beautiful, functional, and user-centric web applications.
 
+- 👋 Hi, I’m John Aljenne Galos
 - 🌱 I’m currently learning **[JavaScript](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)**
 - 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, PHP, MySQL, C++, Java, ComSci stuff... or anything [here](https://github.com/aljnmusic/aljnmusic/issues)**
 
