@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m John Aljenne Galos
 - 🌱 I’m currently learning **[JavaScript](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)**
-- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, PHP, MySQL, C++, Java, ComSci stuff... or anything [here](https://github.com/aljnmusic/aljnmusic/issues)**
+- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, PHP, MySQL, C++, Java, ComSci stuff... or anything [here](https://github.com/johnaljennegalos/johnaljennegalos/issues)**
 
 <br>
 
@@ -80,9 +80,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aljnmusic/aljnmusic/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aljnmusic/aljnmusic/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/aljnmusic/aljnmusic/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnaljennegalos/johnaljennegalos/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnaljennegalos/johnaljennegalos/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/johnaljennegalos/johnaljennegalos/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
